@@ -1,18 +1,26 @@
-{
-                         "name": "test",
-  "age": 20,
-"city": "tabriz"
-}
+[
+    {
+                "name": "test",
+      "age": 20,
+      "city": "tabriz"
+    },
+    {
+      "name": "test",
+                "age": 20,
+      "city": "esfehan"
+    },
+    {
+      "name": "wer",
+      "age": 23420,
+      "city": "testetstestetset"
+    },
 
-{
-    "name": "test",
-    "age": 20,
-    "city": "esfehan"
-}
 
-{
-    "name": "wer",
-    "age": 23420,
-    "city": "wefwef"
-  }
-    
+    {
+      "name": "fhth",
+      "age": 23420,
+      "city": "u,mumu"
+    }
+  ]
+      
+  
