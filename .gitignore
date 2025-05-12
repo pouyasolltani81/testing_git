@@ -1,0 +1,15 @@
+cat > .gitignore << 'EOF'
+# Dependencies
+node_modules/
+
+# Builds
+dist/
+build/
+
+# Env files
+.env*
+# IDE settings
+.vscode/
+# Logs
+*.log
+EOF
